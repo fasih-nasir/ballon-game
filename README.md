@@ -2,20 +2,19 @@
 
 Welcome to  Save Ballon Gam! This is a simple clone of the popular  Save Ballon Gam, built using HTML, CSS, and JavaScript. 
 
-![image](https://github.com/user-attachments/assets/444f1fb6-6a9f-4f8f-ba07-951b6ded97aa)
+![image](https://github.com/user-attachments/assets/05adde82-6ba6-4a30-bb6e-ba9d87443570)
 
 
 
-## Features
 
-- Drag and drop candies to match three or more in a row.
-- Timer-based gameplay.
-- Animated candy refill.
-- Score tracking.
-- Game over screen.
+Features
+Control the balloon using the up and down arrow keys.
+Dodge the arrows coming from the archer to keep the balloon safe.
+Dynamic obstacles to increase the challenge.
+Score tracking to keep track of your survival time.
+Game over screen to display your final score and restart option.
 
-## Getting Started
-![image](https://github.com/user-attachments/assets/e994df73-0b1e-4141-b8e9-0ee3d67cfd15)
+
 
 ### Prerequisites
 
@@ -27,8 +26,6 @@ To run this game, you need a web browser that supports HTML5, CSS3, and JavaScri
 - CSS3
 - JavaScript
 
-## Screenshots
-![image](https://github.com/user-attachments/assets/72d2481e-12e1-472f-86a6-13d3326be085)
 
 - 👨‍💻 All of my projects are available at [https://fasih-nasirall.netlify.app/]
 
